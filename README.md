@@ -1,4 +1,4 @@
 # calculator
 first repo
 <br>
-author pronoy barman dipu
+author - pronoy barman dipu(NITJ)
