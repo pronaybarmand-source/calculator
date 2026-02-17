@@ -1,4 +1,5 @@
-# calculator
-first repo
+#college codes 
 <br>
-author - pronoy barman dipu(NITJ)
+First Repository
+<br>
+author - Pronoy Barman Dipu (NITJ)
